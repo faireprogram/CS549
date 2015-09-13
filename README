@@ -1,7 +1,9 @@
-CS549
-======
+#CS549
 
 FTP: using RMI (similar to RPC) to implement download or upload file or folder
 DHT-Standalone: implemented with DHT Algorithm
 DHT-Streaming: implementd with DHT Algorithm and meanwhile add server-side event
 Hadoop-pagerank: implement page rank algorithm with hadoop which is based on the idea of Map-Reduce
+
+#Authors
+	Wen Zhang		<wzhang32@stevens.edu>  
