@@ -1,0 +1,16 @@
+grant codeBase "file:C:\\Users\\faire_000/-" {
+    permission java.security.AllPermission;
+};
+
+grant codeBase "file:C:\\Users\\faire_000/tmp/cs549/ftp-test/ftp.jar/-" {
+    permission java.security.AllPermission;
+};
+
+
+grant codebase "file:/c:/Users/faire_000/.m2/repository/-"{
+    permission java.security.AllPermission;
+};
+
+grant codebase "file:/d:/-"{
+    permission java.security.AllPermission;
+};

@@ -1,0 +1,8 @@
+grant codeBase "file:${client.workhome}/-" {
+    permission java.security.AllPermission;
+};
+
+grant codeBase "${client.codebase}/-" {
+    permission java.security.AllPermission;
+};
+
